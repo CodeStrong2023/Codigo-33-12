@@ -3,11 +3,11 @@
 // Tipo string
 // LAs variables se pueden reutilizar
 var nombre = 'Daniel';
-console.log(nombre);
+console.log(typeof nombre);
 
 // Tipo numerico
 var numero = 2493;
-console.log(numero);
+console.log(typeof numero);
 
 // Tipo objeto
 var objeto = {
@@ -15,16 +15,26 @@ var objeto = {
     apellido : 'Martinez',
     edad: 23
 }
-console.log(objeto);
+console.log(typeof objeto);
 
 // Tipo boolean
 var booleano = true;
-console.log(booleano);
+console.log(typeof booleano);
 
 // Tipo funcion
 function funcion(){}
-console.log(funcion);
+console.log(typeof funcion);
 
 // Tipo symbol
 var simbolo = Symbol('Mi simbolo')
-console.log(simbolo);
+console.log(typeof simbolo);
+
+// Tipo clase
+
+class Persona{
+    constructor(nombre,apellido){
+        this.nombre = nombre;
+        this.apellido = apellido;
+    }
+}
+console.log(typeof Persona);
