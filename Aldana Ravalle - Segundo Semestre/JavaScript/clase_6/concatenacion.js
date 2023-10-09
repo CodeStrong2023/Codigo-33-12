@@ -25,3 +25,10 @@ console.log(usuario3)
 // Concatenar con operadores
 nombre += apellido;
 console.log(nombre)
+
+// Ya no se usa ver, se usa let u const
+let nombre2 = 'Samanta';
+console.log(nombre2);
+
+const apellido2 = 'Juarez';
+console.log(apellido2)
