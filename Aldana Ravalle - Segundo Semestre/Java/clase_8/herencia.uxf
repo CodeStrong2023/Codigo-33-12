@@ -1,0 +1,34 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>130</x><y>50</y><w>210</w><h>220</h></coordinates><panel_attributes>&lt;&lt;Persona&gt;&gt;
+--
+- nombre: String
+- genero: char
+- edad: int
+- direccion: String
+--
++getNombre(): Str
++setNombre(String): void
++getGenero(): char
++setGenero(char): void
++getEdad(): int
++setEdad(int): void
++getDireccion(): String
++setDireccion(String): void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>10</x><y>350</y><w>210</w><h>190</h></coordinates><panel_attributes>&lt;&lt;Empleado&gt;&gt;
+--
+-idEmpleado: int
+-sueldo: double
+--
++getIdEmpleado(): int
++getSueldo(): double
++setSueldo(double): void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>350</y><w>210</w><h>190</h></coordinates><panel_attributes>&lt;&lt;Cliente&gt;&gt;
+--
+-idCliente: int
+-fechaRegistro: Date
+-vip: boolean
+--
++getldCliente(): int
++getFechaRegistro(): Date
++setFechaRegistro(Date): void
++idVip(): boolean
++setVip(boolean): void</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>100</x><y>290</y><w>150</w><h>40</h></coordinates><panel_attributes>lt=()-
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;20;130;20</additional_attributes></element><element><id>Relation</id><coordinates><x>220</x><y>290</y><w>170</w><h>40</h></coordinates><panel_attributes>lt=()-
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>150;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>360</x><y>310</y><w>30</w><h>60</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;40</additional_attributes></element><element><id>Relation</id><coordinates><x>100</x><y>310</y><w>30</w><h>60</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;40</additional_attributes></element><element><id>Relation</id><coordinates><x>230</x><y>260</y><w>30</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;50</additional_attributes></element></diagram>
