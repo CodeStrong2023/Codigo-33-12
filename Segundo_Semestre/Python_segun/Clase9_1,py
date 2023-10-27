@@ -1,0 +1,31 @@
+
+class Clase9_1:
+    def __init__(self, altura, base):
+        self.altura = altura
+        self.base = base  
+    def areas(self):
+        return self.altura * self.base
+print ("ingrese la altura del primer rectangulo: ")
+a = input()
+altu = int (a)
+print ("ingrese la base del primer rectangulo: ")
+b = input()
+bas = int (b)
+rectangulo1 = Clase9_1(altu, bas)
+print (f'El area del primer rectangulo es: {rectangulo1.areas()}')
+print ("ingrese la altura del segundo rectangulo: ")
+a = input()
+altu = int (a)
+print ("ingrese la base del segundo rectangulo: ")
+b = input()
+bas = int (b)
+rectangulo2 = Clase9_1(altu, bas)
+print (f'El area del segundo rectangulo es: {rectangulo2.areas()}')
+print ("ingrese la altura del tercer rectangulo: ")
+a = input()
+altu = int (a)
+print ("ingrese la base del tercer rectangulo: ")
+b = input()
+bas = int (b)
+rectangulo3 = Clase9_1(altu, bas)
+print (f'El area del tercer rectangulo es: {rectangulo3.areas()}')
