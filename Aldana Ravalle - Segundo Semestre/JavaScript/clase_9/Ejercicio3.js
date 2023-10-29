@@ -14,5 +14,6 @@ else{
     console.log("Es menor de edad")
 }
 
+// Con el operador ternario
 let resultado = edad >= 18 ? "Es mayor de edad": "Es meor de edad";
 console.log(resultado);
