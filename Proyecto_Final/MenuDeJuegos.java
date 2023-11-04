@@ -9,7 +9,7 @@ public class MenuDeJuegos {
         System.out.println("");
         System.out.println("Bienvenido al Menú de Juegos");
         System.out.println("1. Juego de Palabras");
-        System.out.println("2. Otro juego");
+        System.out.println("2. Piedra papel o tijeras");
         System.out.println("3. Otro juego");
         System.out.println("4. Otro juego");
         System.out.println("5. Otro juego");
