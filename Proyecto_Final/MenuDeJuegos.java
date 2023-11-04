@@ -28,7 +28,8 @@ public class MenuDeJuegos {
             JuegoPalabras.main(args);
 
         } else if (opcion == 2) {
-            // otro juego
+            System.out.println("");
+            Piedra_papel_O_tijera.main(args);
         
         } else if (opcion == 3) {
             // otro juego
