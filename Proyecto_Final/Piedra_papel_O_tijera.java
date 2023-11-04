@@ -1,5 +1,5 @@
 import java.util.Scanner;
-packege Proyecto_Final;
+package Proyecto_Final;
 /**
  * Piedra_papel_O_tijera
  */
