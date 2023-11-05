@@ -10,7 +10,7 @@ public class MenuDeJuegos {
         System.out.println("Bienvenido al Menú de Juegos");
         System.out.println("1. Juego de Palabras");
         System.out.println("2. Piedra papel o tijeras");
-        System.out.println("3. Otro juego");
+        System.out.println("3. Adivina el numero");
         System.out.println("4. Otro juego");
         System.out.println("5. Otro juego");
         System.out.println("6. Otro juego");
@@ -32,7 +32,8 @@ public class MenuDeJuegos {
             Piedra_papel_O_tijera.main(args);
         
         } else if (opcion == 3) {
-            // otro juego
+            System.out.println("");
+            ProyectoIntJava.main(args);
         
         } else if (opcion == 4) {
             // otro juego
