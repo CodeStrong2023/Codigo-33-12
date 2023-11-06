@@ -46,9 +46,6 @@ public class MenuDeJuegos {
         
         } else if (opcion == 7) {
             // otro juego
-        
-        } else if (opcion == 8) {
-            // otro juego
 
         } else {
             System.out.println("Opción no válida. Saliendo del Menú de Juegos.");
