@@ -15,10 +15,9 @@ public class MenuDeJuegos {
         System.out.println("5. Otro juego");
         System.out.println("6. Otro juego");
         System.out.println("7. Otro juego");
-        System.out.println("8. Otro juego");
         System.out.println("");
 
-        System.out.print("Elige un juego (1/8): ");
+        System.out.print("Elige un juego (1/7): ");
 
         int opcion = scanner.nextInt();
         scanner.nextLine();
