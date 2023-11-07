@@ -11,7 +11,7 @@ public class MenuDeJuegos {
         System.out.println("1. Juego de Palabras");
         System.out.println("2. Piedra papel o tijeras");
         System.out.println("3. Adivina el numero");
-        System.out.println("4. Otro juego");
+        System.out.println("4. El Buscaminas");
         System.out.println("5. Otro juego");
         System.out.println("6. Otro juego");
         System.out.println("7. Otro juego");
@@ -35,7 +35,8 @@ public class MenuDeJuegos {
             ProyectoIntJava.main(args);
         
         } else if (opcion == 4) {
-            // otro juego
+            System.out.println("");
+            ElBuscaminas.main(args);
         
         } else if (opcion == 5) {
             // otro juego
