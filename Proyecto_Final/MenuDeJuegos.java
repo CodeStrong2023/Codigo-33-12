@@ -8,7 +8,7 @@ public class MenuDeJuegos {
 
         System.out.println("");
         System.out.println("Bienvenido al Menú de Juegos");
-        System.out.println("1. Juego de Palabras");
+        System.out.println("1. Palabras Encadenadas");
         System.out.println("2. Piedra papel o tijeras");
         System.out.println("3. Adivina el numero");
         System.out.println("4. El Buscaminas");

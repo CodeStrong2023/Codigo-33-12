@@ -6,12 +6,12 @@ public class JuegoPalabras {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-
+        // Juego de Aldana Ravalle
         // Reglas del juego
         System.out.println();
         System.out.println("  ______________________________________________________________________________");
         System.out.println(" |                                                                              |");
-        System.out.println(" |                     - Bienvenido al Juego de Palabras -                      |");
+        System.out.println(" |                  - Bienvenido al Juego Palabras Encadenadas -                |");
         System.out.println(" |                                                                              |");
         System.out.println(" |   Este juego consiste en ingresar una palabra por turno.                     |");
         System.out.println(" |   Para ganar, la primera sílaba de las palabras ingresadas debe coincidir    |");
