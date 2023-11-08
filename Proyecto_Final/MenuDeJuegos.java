@@ -12,7 +12,7 @@ public class MenuDeJuegos {
         System.out.println("2. Piedra papel o tijeras");
         System.out.println("3. Adivina el numero");
         System.out.println("4. El Buscaminas");
-        System.out.println("5. Otro juego");
+        System.out.println("5. Adivino tu edad");
         System.out.println("6. Otro juego");
         System.out.println("7. Otro juego");
         System.out.println("");
@@ -39,7 +39,8 @@ public class MenuDeJuegos {
             ElBuscaminas.main(args);
         
         } else if (opcion == 5) {
-            // otro juego
+            System.out.println("");
+            AdivinarEdad.main(args);
         
         } else if (opcion == 6) {
             // otro juego
