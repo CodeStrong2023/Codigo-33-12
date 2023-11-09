@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+package Proyecto_Final;
 public class JuegoBuscaminas {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
