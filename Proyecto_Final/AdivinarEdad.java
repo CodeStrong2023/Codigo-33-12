@@ -1,5 +1,5 @@
 
-package AdivinarEdad;
+package Proyecto_Final;
 
 import java.util.Scanner;
 
