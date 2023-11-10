@@ -43,7 +43,8 @@ public class MenuDeJuegos {
             AdivinarEdad.main(args);
         
         } else if (opcion == 6) {
-            // otro juego
+            System.out.println("");
+            JuegoDeAprendizaje.main(args);
         
         } else if (opcion == 7) {
             // otro juego
