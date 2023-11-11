@@ -14,7 +14,7 @@ public class MenuDeJuegos {
         System.out.println("4. El Buscaminas");
         System.out.println("5. Adivino tu edad");
         System.out.println("6. Juego de Aprendizaje");
-        System.out.println("7. Otro juego");
+        System.out.println("7. Tres En Linea");
         System.out.println("");
 
         System.out.print("Elige un juego (1/7): ");
@@ -47,7 +47,8 @@ public class MenuDeJuegos {
             JuegoDeAprendizaje.main(args);
         
         } else if (opcion == 7) {
-            // otro juego
+            System.out.println("");
+            TresEnLinea.main(args);
 
         } else {
             System.out.println("Opción no válida. Saliendo del Menú de Juegos.");
