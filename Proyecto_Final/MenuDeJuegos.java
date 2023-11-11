@@ -13,7 +13,7 @@ public class MenuDeJuegos {
         System.out.println("3. Adivina el numero");
         System.out.println("4. El Buscaminas");
         System.out.println("5. Adivino tu edad");
-        System.out.println("6. Otro juego");
+        System.out.println("6. Juego de Aprendizaje");
         System.out.println("7. Otro juego");
         System.out.println("");
 
