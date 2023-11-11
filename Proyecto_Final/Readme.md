@@ -9,7 +9,7 @@ Piedra papel y tijera: VSC
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Adivina el número: NetBeans 12.1
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-Adivina la Edad:
+Adivina la Edad: NetBeans 12.1
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Buscaminas: NetBeans 12.1
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -30,7 +30,7 @@ En los juegos se encuentran aparte las reglas, donde los mismos estan explicados
 -  Gianella A. Achetoni
 -   Ezequiel Flores
 -  Aldana Ravalle
--   Sofia
+-   Sofía López
 -  Simón Carabajal
 -   Jessica Paganno
 -   Rocio Belen
