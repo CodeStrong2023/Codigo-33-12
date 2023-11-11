@@ -1,4 +1,4 @@
-package tresenlinea;
+package Proyecto_Final;
 
 import java.util.Scanner;
 
