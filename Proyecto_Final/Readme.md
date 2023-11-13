@@ -17,7 +17,7 @@ Tres en linea: NetBeans 12.1
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Juego Palabras:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-Juego De aprendizaje:
+Juego De aprendizaje: NetBeans 12.1
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Intrucciones de ejecución
@@ -33,4 +33,4 @@ En los juegos se encuentran aparte las reglas, donde los mismos estan explicados
 -   Sofía López
 -  Simón Carabajal
 -   Jessica Paganno
--   Rocio Belen
+-   Arriola Rocio Belen
